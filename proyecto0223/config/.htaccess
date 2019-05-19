@@ -1,0 +1,7 @@
+<Files "env.php">
+Order Allow,Deny
+deny from All
+
+
+</Files>
+Options All -Indexes
